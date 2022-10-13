@@ -436,7 +436,7 @@
     padding: 15px;
     float: none;
     display: inline-block;
-    margin: 30px;
+    margin: 40px;
 }
 .contact{
     display: inline-block;
@@ -466,8 +466,8 @@ span{
     color: white;
     padding: 10px;
     position: relative;
-    margin: 20px;
-    margin-top: auto;
+    margin-left: 70px;
+    margin-bottom: 20px;
     justify-content: center;
     align-items: center;
     vertical-align: bottom;
